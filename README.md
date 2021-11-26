@@ -1,8 +1,8 @@
-# Assignment 12: Niche Website - The Ice Point
+# Niche Website - The Ice Point
 
-Git Hub Link Client Site: https://github.com/programming-hero-web-course-4/niche-website-client-side-shaif-uddin
+Git Hub Link Client Site: https://github.com/shaif-uddin/niche-website-client-side
 
-Git Hub Link Server: https://github.com/programming-hero-web-course-4/niche-website-server-side-shaif-uddin
+Git Hub Link Server: https://github.com/shaif-uddin/niche-website-server-side
 
 Website Link : https://theicepoint.web.app/
 
